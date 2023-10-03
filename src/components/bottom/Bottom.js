@@ -7,10 +7,10 @@ const Bottom= function(){
         Available for free on the App store. Downlaod fo rMac or iOS, sync with iCloud and your ready
       </p>
       <div class="flex flex-col justify-center w-full space-y-6 text-xl text-white md:flex-row md:space-y-0 md:space-x-4">
-        <a href="#" class={`${styles.buttonContainer} bg-strongCyan`}>
+        <a href="test" class={`${styles.buttonContainer} bg-strongCyan`}>
           Download for IOS
         </a>
-        <a href="#" class={`${styles.buttonContainer} bg-lightBlue`}>
+        <a href="test" class={`${styles.buttonContainer} bg-lightBlue`}>
           Download for MAC
         </a>
       </div>

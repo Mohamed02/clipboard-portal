@@ -10,36 +10,36 @@ const Footer = function(){
           <div class="flex flex-col space-y-4 md:flex-row md:ml-24 md:space-x-24 md:space-y-0">
             <div class="flex flex-col space-y-4 text-center md:text-left">
               <div>
-                <a href="" class="hover:text-strongCyan">FAQs</a>
+                <a href="test" class="hover:text-strongCyan">FAQs</a>
               </div>
               <div>
-                <a href="" class="hover:text-strongCyan">Contact Us</a>
-              </div>
-            </div>
-            <div class="flex flex-col space-y-4 text-center md:text-left">
-              <div>
-                <a href="" class="hover:text-strongCyan">Privacy Policy</a>
-              </div>
-              <div>
-                <a href="" class="hover:text-strongCyan">Press Kit</a>
+                <a href="test" class="hover:text-strongCyan">Contact Us</a>
               </div>
             </div>
             <div class="flex flex-col space-y-4 text-center md:text-left">
               <div>
-                <a href="" class="hover:text-strongCyan">Install Guide</a>
+                <a href="test" class="hover:text-strongCyan">Privacy Policy</a>
+              </div>
+              <div>
+                <a href="test" class="hover:text-strongCyan">Press Kit</a>
+              </div>
+            </div>
+            <div class="flex flex-col space-y-4 text-center md:text-left">
+              <div>
+                <a href="test" class="hover:text-strongCyan">Install Guide</a>
               </div>
              
             </div>
           </div>
 
           <div class="flex justify-between w-32 py-1">
-            <a href="#">
+            <a href="test">
                <img src={facebookIcon} alt="" class="ficon duration-200"/>
             </a>
-            <a href="#">
+            <a href="test">
               <img src={twitterIcon} alt="" class="ficon ficonduration-200"/>
            </a>
-           <a href="#">
+           <a href="test">
             <img src={instagramIcon} alt="" class="ficon duration-200"/>
          </a>
           </div>
