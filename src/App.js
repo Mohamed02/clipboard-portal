@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <Clipboard/>
-      This is an app which demostrate the usage of tailwind css in create react app.
-    </div>
+      </div>
   );
 }
 
